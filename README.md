@@ -2,7 +2,11 @@
 
 Download a website with one simple command
 
-## Helpful Links 
+```
+./website-dl.sh /temp domain.com
+```
+
+## Helpful Links
 
 - WGet Manual: http://www.gnu.org/software/wget/manual/wget.html
 - Link Checker: http://wummel.github.io/linkchecker/
